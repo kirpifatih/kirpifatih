@@ -1,6 +1,6 @@
-[12:57] Fatih Kirpi (Berkut Teknoloji)(Dogus Teknoloji)
+Fatih Kirpi (Berkut Teknoloji)(Dogus Teknoloji)
     
-### Hi there 👋, my name is Samet
+### Hi there 👋, my name is Fatih
 Native and Cross Mobil Application Developer
 
 
