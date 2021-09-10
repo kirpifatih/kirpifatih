@@ -1,4 +1,3 @@
-Fatih Kirpi (Berkut Teknoloji)(Dogus Teknoloji)
     
 ### Hi there 👋, my name is Fatih
 Native and Cross Mobil Application Developer
