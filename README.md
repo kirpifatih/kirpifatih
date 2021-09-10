@@ -3,7 +3,7 @@
 Native and Cross Mobil Application Developer
 
 
-Skills: Flutter / Dart / Android / Java / Swift/ React Native/ Js/İos 
+Skills: Flutter / Dart / Android / Java / Swift/ React Native/ Js/İos/C#
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirpifatih)](https://github.com/anuraghazra/github-readme-stats)
